@@ -12,8 +12,9 @@ monitoreo de temperatura y prediccion de fallas.
 
 ## ESTADO DEL PROYECTO
 [3625924] Repo inicializado y entorno validado.
-[PEND] Estructura de carpetas para logs de sensores.
-[PEND] Script de comunicacion serial (Arduino-Python).
+[OK] Estructura de directorios (data, scripts, reports).
+[OK] Script analizador_termico.py (Procesamiento con Pandas).
+[PEND] Generación de curvas de enfriamiento (Matplotlib).
 
 ## NOTA TECNICA
 Utilizar datos termicos para identificar patrones de 
