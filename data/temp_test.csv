@@ -1,0 +1,4 @@
+timestamp,temp_c,estado
+2026-03-10 18:00,250.5,enfriamiento
+2026-03-10 18:05,180.2,enfriamiento
+2026-03-10 18:10,95.0,estabilizado
