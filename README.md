@@ -14,7 +14,9 @@ monitoreo de temperatura y prediccion de fallas.
 [3625924] Repo inicializado y entorno validado.
 [OK] Estructura de directorios (data, scripts, reports).
 [OK] Script analizador_termico.py (Procesamiento con Pandas).
-[PEND] Generación de curvas de enfriamiento (Matplotlib).
+[OK] Generación de curvas de enfriamiento (Matplotlib).
+[OK] Generador de datos industriales (Simulacion 20 puntos).
+[OK] Graficador de curvas de enfriamiento (Matplotlib).
 
 ## NOTA TECNICA
 Utilizar datos termicos para identificar patrones de 
