@@ -17,6 +17,8 @@ monitoreo de temperatura y prediccion de fallas.
 [OK] Generación de curvas de enfriamiento (Matplotlib).
 [OK] Generador de datos industriales (Simulacion 20 puntos).
 [OK] Graficador de curvas de enfriamiento (Matplotlib).
+[OK] Graficador de curvas de enfriamiento (Matplotlib).
+[OK] Modulo metalurgico: Calculo automatico de t8/5.
 
 ## NOTA TECNICA
 Utilizar datos termicos para identificar patrones de 
