@@ -14,6 +14,10 @@ def generar_grafica():
         # 2. Dibujar la linea roja con los puntos
         plt.plot(df['timestamp'], df['temp_c'], marker='o', color='red', linestyle='-')
 
+        # --- NUEVA LÍNEA DE REFERENCIA METALÚRGICA ---
+        plt.axhline(y=500, color='green', linestyle='--', linewidth=2, label='Límite Crítico (500°C)')
+        # ---------------------------------------------
+
         # 3. LIMPIEZA DEL EJE X (Aquí está el truco)
         # Saltamos de 3 en 3 etiquetas y las rotamos para que no se choquen
         plt.xticks(ticks=df['timestamp'][::3], rotation=45)
